@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Array/Array.csproj" Id="9a1393f7-a980-4b91-839b-7f839d71d000" />
+  <Project Path="chalenge/chalenge.csproj" />
+  <Project Path="FirstProject/FirstProject.csproj" />
+  <Project Path="Task1/Task1.csproj" Id="1a8e4903-aa84-4776-af57-0f1806df8e0a" />
+</Solution>
